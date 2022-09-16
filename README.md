@@ -6,13 +6,13 @@
 ​
 [![My Skills](https://skillicons.dev/icons?i=netlify,nextjs,react,ts,vercel,vscode&theme=dark)](https://skillicons.dev)  
 
-## Some Other Stuff I Know:
+## Other Things In My Wheelhouse:
 ​
-[![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,tailwind,wordpress&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,wordpress&theme=dark)](https://skillicons.dev)
 
-## What I'm Playing Around With:
+## What I'm Playing Around With/Diving Deeper Into:
 ​
-[![My Skills](https://skillicons.dev/icons?i=jest,nodejs,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,nodejs,laravel,tailwind&theme=dark)](https://skillicons.dev)
 
 
 
