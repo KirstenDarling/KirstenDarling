@@ -11,7 +11,7 @@
 
 ### 🖤💪 Other Skills In My Wheelhouse:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,wordpress&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,wordpress&theme=dark)](https://skillicons.dev)
 
 
 ### 🖤📚 What I'm Playing Around With/Diving Deeper Into:
