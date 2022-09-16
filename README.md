@@ -1,12 +1,20 @@
 ### Hello World, My name is Kirsten. I like to learn, build, explore, and solve. I like a challenge and I hate stagnation. That being said, I'm always diving into a new project or a new language. Check out my list of skills below and what I'm learning about and tinkering with atm. 
 
 
-## Skills
-# My Favorite to Work With:
+# Skills
+## My Favorite to Work With:
 ​
-[![My Skills](https://skillicons.dev/icons?i=aws,codepen,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,netlify,nextjs,php,react,sass,ts,vercel,vscode,wordpress&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify,nextjs,react,ts,vercel,vscode&theme=dark)](https://skillicons.dev)  
+
+## Some Other Stuff I Know:
 ​
+[![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,tailwind,wordpress&theme=dark)](https://skillicons.dev)
+
+## What I'm Playing Around With:
+​
+[![My Skills](https://skillicons.dev/icons?i=jest,nodejs,laravel&theme=dark)](https://skillicons.dev)
+
+
 
 <!--
 ## Learning
