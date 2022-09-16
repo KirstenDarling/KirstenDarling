@@ -4,12 +4,12 @@
 
 
 ## Skills
-### 🖤🔥 My Favorite to Work With:
+### 🖤🔥 My Favorites to Work With:
 
 [![My Skills](https://skillicons.dev/icons?i=netlify,nextjs,react,ts,vercel,vscode&theme=dark)](https://skillicons.dev)  
 
 
-### 🖤💪 Other Things In My Wheelhouse:
+### 🖤💪 Other Skills In My Wheelhouse:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,mysql,php,sass,wordpress&theme=dark)](https://skillicons.dev)
 
