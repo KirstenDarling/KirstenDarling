@@ -24,7 +24,7 @@
  ### GitHub Stats ⚡
   
   ###
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirstenDarling&count_private=true&theme=dark)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirstenDarling&hide=stars,issues,contribs&count_private=true&theme=dark)
 
 
 
