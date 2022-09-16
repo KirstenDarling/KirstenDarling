@@ -24,7 +24,7 @@
  ### GitHub Stats ⚡
   
   ###
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirstenDarling&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirstenDarling&hide=stars,issues,contribs&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
   
   ###
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/kirstendarling/github-readme-stats)
