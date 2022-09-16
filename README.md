@@ -4,7 +4,7 @@
 ## Skills
 # My Favorite to Work With:
 ​
-[![My Skills](https://skillicons.dev/icons?i=aws,codepen,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,netlify,nextjs,php,react,sass,ts,vercel,vscode,wordpress &theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=aws,codepen,css,dynamodb,figma,git,html,js,jquery,materialui,mongodb,netlify,nextjs,php,react,sass,ts,vercel,vscode,wordpress&theme=dark)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=php,nodejs,react,graphql,stackoverflow&theme=dark)](https://skillicons.dev)
 ​
 
