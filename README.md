@@ -1,4 +1,5 @@
-### Hello World, My name is Kirsten. I like to learn, build, explore, and solve. I like a challenge and I hate stagnation. That being said, I'm always diving into a new project or a new language. Check out my list of skills below and what I'm learning about and tinkering with atm. 
+# Hello World,
+### My name is Kirsten. I like to learn, build, explore, and solve. I like a challenge and I hate stagnation. That being said, I'm always diving into a new project or a new language. Check out my list of skills below and what I'm learning about and tinkering with atm. 
 
 
 ## Skills
